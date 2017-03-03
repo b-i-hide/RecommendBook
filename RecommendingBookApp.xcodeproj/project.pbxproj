@@ -12,6 +12,9 @@
 		131FC9A31E693E7E006E9904 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 131FC9A11E693E7E006E9904 /* Main.storyboard */; };
 		131FC9A51E693E7E006E9904 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 131FC9A41E693E7E006E9904 /* Assets.xcassets */; };
 		131FC9A81E693E7E006E9904 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 131FC9A61E693E7E006E9904 /* LaunchScreen.storyboard */; };
+		13E3EC6A1E694C78005B6C9C /* AOA１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 13E3EC691E694C78005B6C9C /* AOA１.jpg */; };
+		13E3EC6C1E694E54005B6C9C /* cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 13E3EC6B1E694E54005B6C9C /* cat.png */; };
+		13E3EC6E1E694EB5005B6C9C /* aoa1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 13E3EC6D1E694EB5005B6C9C /* aoa1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		131FC9A41E693E7E006E9904 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		131FC9A71E693E7E006E9904 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		131FC9A91E693E7E006E9904 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		13E3EC691E694C78005B6C9C /* AOA１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "AOA１.jpg"; sourceTree = "<group>"; };
+		13E3EC6B1E694E54005B6C9C /* cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cat.png; sourceTree = "<group>"; };
+		13E3EC6D1E694EB5005B6C9C /* aoa1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = aoa1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 				131FC99D1E693E7E006E9904 /* AppDelegate.swift */,
 				131FC99F1E693E7E006E9904 /* ViewController.swift */,
 				131FC9A11E693E7E006E9904 /* Main.storyboard */,
+				13E3EC6D1E694EB5005B6C9C /* aoa1.jpg */,
+				13E3EC6B1E694E54005B6C9C /* cat.png */,
+				13E3EC691E694C78005B6C9C /* AOA１.jpg */,
 				131FC9A41E693E7E006E9904 /* Assets.xcassets */,
 				131FC9A61E693E7E006E9904 /* LaunchScreen.storyboard */,
 				131FC9A91E693E7E006E9904 /* Info.plist */,
@@ -123,7 +132,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				13E3EC6C1E694E54005B6C9C /* cat.png in Resources */,
+				13E3EC6E1E694EB5005B6C9C /* aoa1.jpg in Resources */,
 				131FC9A81E693E7E006E9904 /* LaunchScreen.storyboard in Resources */,
+				13E3EC6A1E694C78005B6C9C /* AOA１.jpg in Resources */,
 				131FC9A51E693E7E006E9904 /* Assets.xcassets in Resources */,
 				131FC9A31E693E7E006E9904 /* Main.storyboard in Resources */,
 			);
@@ -297,6 +309,7 @@
 				131FC9AE1E693E7E006E9904 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
